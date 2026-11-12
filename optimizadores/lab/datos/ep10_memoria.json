@@ -1,0 +1,1 @@
+{"SGD": 0.0, "SGD + momentum": 1.0, "AdamW": 2.0, "Lion": 1.0, "Muon": 1.0, "Adafactor": 0.002}

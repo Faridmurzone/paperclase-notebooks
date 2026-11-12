@@ -1,0 +1,7 @@
+nnsight
+numpy
+peft>=0.17
+scikit-learn
+torch
+transformer-lens
+transformers>=5.0

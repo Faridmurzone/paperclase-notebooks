@@ -1,0 +1,6 @@
+peft>=0.17
+safetensors
+scikit-learn
+torch
+transformers>=5.0
+bitsandbytes>=0.46.1  # QLoRA: necesita GPU (Entorno de ejecución → T4)
