@@ -48,10 +48,10 @@ Ajustar un modelo grande entrenando dos matrices chicas: la fórmula, por qué a
 
 | Episodio | Notebook | Gemma (token HF) |
 |---|---|---|
-| 01 · Por qué no ajustar todo | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep01.ipynb) | no |
+| 01 · Por qué no ajustar todo | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep01.ipynb) | sí |
 | 02 · Rango intrínseco bajo | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep02.ipynb) | no |
-| 03 · La fórmula | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep03.ipynb) | no |
-| 04 · Dónde ponerlo | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep04.ipynb) | no |
+| 03 · La fórmula | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep03.ipynb) | sí |
+| 04 · Dónde ponerlo | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep04.ipynb) | sí |
 | 05 · LoRA desde cero | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep05.ipynb) | no |
 | 06 · peft por dentro | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep06.ipynb) | sí |
 | 07 · Fusionar y servir | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/lora/notebooks/ep07.ipynb) | no |
