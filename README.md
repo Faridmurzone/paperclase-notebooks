@@ -143,3 +143,20 @@ Modelos con muchos expertos y un router que elige pocos por token: el gating top
 | 08 · Balancear sin pérdida auxiliar | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/moe/notebooks/ep08.ipynb) | no |
 | 09 · Qué aprende cada experto | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/moe/notebooks/ep09.ipynb) | no |
 | 10 · El costo de verdad | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/moe/notebooks/ep10.ipynb) | no |
+
+## Visión: de convoluciones a ViT
+
+Cómo una red ve una imagen: la convolución como operación y como matriz, filtros y campo receptivo, de LeNet a ResNet, BatchNorm, augmentation, ViT y CLIP. Todo entrenado de verdad, a escala chica.
+
+| Episodio | Notebook | Gemma (token HF) |
+|---|---|---|
+| 01 · Una imagen es un tensor | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep01.ipynb) | no |
+| 02 · La convolución | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep02.ipynb) | no |
+| 03 · La convolución como matriz | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep03.ipynb) | no |
+| 04 · Canales y campo receptivo | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep04.ipynb) | no |
+| 05 · De LeNet a AlexNet | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep05.ipynb) | no |
+| 06 · Qué mira una CNN | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep06.ipynb) | no |
+| 07 · Profundidad y ResNet | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep07.ipynb) | no |
+| 08 · BatchNorm y augmentation | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep08.ipynb) | no |
+| 09 · Vision Transformer | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep09.ipynb) | no |
+| 10 · CLIP: imágenes y texto | [Abrir en Colab](https://colab.research.google.com/github/Faridmurzone/paperclase-notebooks/blob/main/vision/notebooks/ep10.ipynb) | no |

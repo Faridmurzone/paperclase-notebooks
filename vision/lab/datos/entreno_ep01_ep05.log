@@ -1,0 +1,61 @@
+  mlp_ep01 epoch 1: test 0.4746
+  mlp_ep01 epoch 2: test 0.5003
+  mlp_ep01 epoch 3: test 0.5067
+  mlp_ep01 epoch 4: test 0.5246
+  mlp_ep01 epoch 5: test 0.5118
+  mlp_ep01 epoch 6: test 0.5245
+  mlp_ep01 epoch 7: test 0.5310
+  mlp_ep01 epoch 8: test 0.5245
+  mlp_ep01 epoch 9: test 0.5340
+  mlp_ep01 epoch 10: test 0.5376
+mlp_ep01: test 0.5376 train 0.7620 (10s)
+  mlp_perm_ep01 epoch 1: test 0.4647
+  mlp_perm_ep01 epoch 2: test 0.4935
+  mlp_perm_ep01 epoch 3: test 0.5114
+  mlp_perm_ep01 epoch 4: test 0.5251
+  mlp_perm_ep01 epoch 5: test 0.5128
+  mlp_perm_ep01 epoch 6: test 0.5163
+  mlp_perm_ep01 epoch 7: test 0.5238
+  mlp_perm_ep01 epoch 8: test 0.5343
+  mlp_perm_ep01 epoch 9: test 0.5346
+  mlp_perm_ep01 epoch 10: test 0.5293
+mlp_perm_ep01: test 0.5293 train 0.7513 (8s)
+  lenet_ep05 epoch 1: pérdida 1.6975 test 0.4729
+  lenet_ep05 epoch 2: pérdida 1.3907 test 0.5311
+  lenet_ep05 epoch 3: pérdida 1.2815 test 0.5532
+  lenet_ep05 epoch 4: pérdida 1.1979 test 0.5752
+  lenet_ep05 epoch 5: pérdida 1.1417 test 0.5840
+  lenet_ep05 epoch 6: pérdida 1.0865 test 0.6012
+  lenet_ep05 epoch 7: pérdida 1.0434 test 0.6193
+  lenet_ep05 epoch 8: pérdida 1.0085 test 0.6189
+  lenet_ep05 epoch 9: pérdida 0.9708 test 0.6254
+  lenet_ep05 epoch 10: pérdida 0.9418 test 0.6257
+  lenet_ep05 epoch 11: pérdida 0.9118 test 0.6388
+  lenet_ep05 epoch 12: pérdida 0.8813 test 0.6350
+lenet_ep05: test 0.6350 train 0.7131 (25s)
+  cnn_ep05 epoch 1: pérdida 1.4365 test 0.5912
+  cnn_ep05 epoch 2: pérdida 1.0381 test 0.6581
+  cnn_ep05 epoch 3: pérdida 0.8744 test 0.7056
+  cnn_ep05 epoch 4: pérdida 0.7670 test 0.7210
+  cnn_ep05 epoch 5: pérdida 0.6989 test 0.7258
+  cnn_ep05 epoch 6: pérdida 0.6288 test 0.7449
+  cnn_ep05 epoch 7: pérdida 0.5851 test 0.7441
+  cnn_ep05 epoch 8: pérdida 0.5262 test 0.7427
+  cnn_ep05 epoch 9: pérdida 0.4858 test 0.7500
+  cnn_ep05 epoch 10: pérdida 0.4417 test 0.7521
+  cnn_ep05 epoch 11: pérdida 0.4105 test 0.7444
+  cnn_ep05 epoch 12: pérdida 0.3680 test 0.7468
+cnn_ep05: test 0.7468 train 0.8886 (62s)
+  cnn_perm_ep05 epoch 1: pérdida 1.9303 test 0.3576
+  cnn_perm_ep05 epoch 2: pérdida 1.6481 test 0.4342
+  cnn_perm_ep05 epoch 3: pérdida 1.5047 test 0.4703
+  cnn_perm_ep05 epoch 4: pérdida 1.4190 test 0.4852
+  cnn_perm_ep05 epoch 5: pérdida 1.3463 test 0.4920
+  cnn_perm_ep05 epoch 6: pérdida 1.2841 test 0.4804
+  cnn_perm_ep05 epoch 7: pérdida 1.2302 test 0.5025
+  cnn_perm_ep05 epoch 8: pérdida 1.1739 test 0.5027
+  cnn_perm_ep05 epoch 9: pérdida 1.1212 test 0.5046
+  cnn_perm_ep05 epoch 10: pérdida 1.0688 test 0.5084
+  cnn_perm_ep05 epoch 11: pérdida 1.0222 test 0.4982
+  cnn_perm_ep05 epoch 12: pérdida 0.9751 test 0.5009
+cnn_perm_ep05: test 0.5009 train 0.6909 (64s)
